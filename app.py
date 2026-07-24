@@ -1,6 +1,7 @@
 import streamlit as st
 from utils.auth import register_student, login_student
 from utils.sidebar import show_sidebar
+from utils.db import create_students_table, create_daily_updates_table
 
 st.set_page_config(
     page_title="Student Performance Prediction System",
@@ -9,6 +10,10 @@ st.set_page_config(
 )
 
 show_sidebar()
+
+# Create database tables if they don't exist
+create_students_table()
+create_daily_updates_table()
 
 # Session State
 if "logged_in" not in st.session_state:
