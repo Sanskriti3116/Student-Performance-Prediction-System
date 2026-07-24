@@ -92,25 +92,25 @@ Student-Performance-Prediction-System/
 
 ### 🔐 Login Page
 
-<img src="screenshots/Login.png" width="900">
+<img src="screenshots/Login.png" width="100%">
 
 ---
 
 ### 📝 Registration Page
 
-<img src="screenshots/Registration.png" width="900">
+<img src="screenshots/Registration.png" width="100%">
 
 ---
 
 ### 📚 Daily Update
 
-<img src="screenshots/Daily%20Update.png" width="900">
+<img src="screenshots/Daily%20Update.png" width="100%">
 
 ---
 
 ### 📖 Daily Update History
 
-<img src="screenshots/Daily%20Update%20History.png" width="900">
+<img src="screenshots/Daily%20Update%20History.png" width="100%">
 
 ---
 
@@ -118,15 +118,15 @@ Student-Performance-Prediction-System/
 
 ### Dashboard Overview
 
-<img src="screenshots/Dashboard%201.png" width="900">
+<img src="screenshots/Dashboard%201.png" width="100%">
 
 ### Performance Insights
 
-<img src="screenshots/Dashboard%202.png" width="900">
+<img src="screenshots/Dashboard%202.png" width="100%">
 
 ### Weekly Analytics
 
-<img src="screenshots/Dashboard%203.png" width="900">
+<img src="screenshots/Dashboard%203.png" width="100%">
 
 ---
 
@@ -134,11 +134,11 @@ Student-Performance-Prediction-System/
 
 ### Student Analytics
 
-<img src="screenshots/Prediction%201.png" width="900">
+<img src="screenshots/Prediction%201.png" width="100%">
 
 ### Prediction Result
 
-<img src="screenshots/Prediction%202.png" width="900">
+<img src="screenshots/Prediction%202.png" width="100%">
 
 ---
 
@@ -146,11 +146,11 @@ Student-Performance-Prediction-System/
 
 ### AI Recommendation
 
-<img src="screenshots/Report%201.png" width="900">
+<img src="screenshots/Report%201.png" width="100%">
 
 ### Downloadable PDF Report
 
-<img src="screenshots/Report%202.png" width="900">
+<img src="screenshots/Report%202.png" width="100%">
 
 ---
 
