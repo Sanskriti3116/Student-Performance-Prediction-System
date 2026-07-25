@@ -1,12 +1,10 @@
 # 🎓 Student Performance Prediction System
 
-## 🚀 Live Demo
+🌐 **Live Application:**  
+👉 [Open Student Performance Prediction System](https://student-performance-prediction-system-4zr5shashe7mswdptua7ku.streamlit.app)
 
-🌐 **Live Application:** https://student-performance-prediction-system-4zr5shashe7mswdptua7ku.streamlit.app
-
-## 📂 GitHub Repository
-
-💻 https://github.com/Sanskriti3116/Student-Performance-Prediction-System
+💻 **GitHub Repository:**  
+👉 [View Source Code](https://github.com/Sanskriti3116/Student-Performance-Prediction-System)
 
 An AI-powered web application built using **Python, Streamlit, SQLite, and Machine Learning** that helps students track their academic performance, analyze study habits, and predict future results based on their daily activities.
 
